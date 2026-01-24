@@ -1,35 +1,27 @@
 # Siphesihle Gema
 
-**Computer Science, AI & Statistics** student at the **University of Cape Town**.
+**Computer Science, AI and Statistic student @ UCT | Vice Chair of UCT Quantum Computing Society**
 
-I am a software engineer building the technical foundation for a future in AI research. My focus right now is on **core software engineering**, **system architecture**, and understanding the mathematical depth of **machine learning**.
-
----
-
-### **Current Focus**
-* **Engineering:** Building scalable full-stack applications and backend systems.
-* **Startup:** Co-founding a SaaS to optimize short-term rental pricing using data modeling.
-* **Learning:** Deepening my understanding of **Multimodal AI** and **Robotics**.
-
-### **Technical Stack**
-* **Languages:** Python, C++, Java, TypeScript, SQL, Bash
-* **Engineering:** Next.js, PostgreSQL, Linux (Ubuntu), Git
-* **Data & AI:** PyTorch, Scikit-learn, Streamlit
+Building at the intersection of High-Performance Computing, AI, and Quantum Systems. Driven by logic, mathematical rigor, and the goal of scaling tech solutions across the continent.
 
 ---
 
-### **Projects**
-* **Rental Price Optimization (Startup):** A SaaS platform for the Cape Town rental market (Python/Next.js).
-* **UCT Quantum Computing Society:** Founder. Engineered the society platform [qcsociety.org](https://qcsociety.org).
-* **Pong AI:** Implemented a **Feedforward Neural Network** from scratch (no RL libraries) to master game states.
+### 🛠️ Current Focus
+* **Systems & Infrastructure:** Deep-diving into C++, low-level systems, and Neovim optimization.
+* **Machine Learning:** Exploring Reinforcement Learning and production-grade time-series forecasting.
+* **Quantum:** Leading initiatives at UCT QCS to bridge the gap between quantum theory and African development.
+
+### 🚀 Tech Stack
+* **Languages:** Python, C++, Java, Bash, lua, R.
+* **Frameworks:** PyTorch, Scikit-Learn.
+* **Tools:** Neovim, Linux (Ubuntu), Git, Playwright.
+
+### 📈 Philosophy
+> "Simplicity beats sophistication." — *Capitec: Stalking Giants*
 
 ---
 
-### **Interests**
-* **Robotics:** Exploring how AI interacts with the physical world.
-* **Competitive Programming:** Active on .[Codeforces](https://codeforces.com/profile/Siphesihle).
-* **Quantum Computing:** Learning quantum algorithms and mechanics.
+### 🔗 Connect with me
+[LinkedIn](https://www.linkedin.com/in/siphesihle-gema) | [Codeforces](https://codeforces.com/profile/Siphesihle)
 
----
-
-[LinkedIn](https://www.linkedin.com/in/siphesihle-gema-b8b318257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) • [Email](GMXSIP014@myuct.ac.za)
+"Grinding Codeforces, one problem at a time."
