@@ -25,3 +25,5 @@ Building at the intersection of High-Performance Computing, AI, and Quantum Syst
 [LinkedIn](https://www.linkedin.com/in/siphesihle-gema) | [Codeforces](https://codeforces.com/profile/Siphesihle)
 
 "Grinding Codeforces, one problem at a time."
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=siphesihlegema&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
