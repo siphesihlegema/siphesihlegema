@@ -1,20 +1,15 @@
-# Siphesihle Gema
+# Hi, I'm Siphesihle 👋
 
-**Computer Science, AI and Statistic student @ UCT | Vice Chair of UCT Quantum Computing Society**
+I'm a student focusing on Computer Science, Artificial Intelligence, and Statistics. I'm particularly interested in low-level systems, AI research, and robotics.
 
-Building at the intersection of High-Performance Computing, AI, and Quantum Systems. Driven by logic, mathematical rigor, and the goal of scaling tech solutions across the continent.
+### 🛠️ Tech Stack
+* **Languages:** C++, Python, Java, JavaScript, TypeScript, Bash
+* **Environment & Tools:** Linux (Ubuntu), Neovim, VS Code
 
----
-
-### 🛠️ Current Focus
-* **Systems & Infrastructure:** Deep-diving into C++, low-level systems, and Neovim optimization.
-* **Machine Learning:** Exploring Reinforcement Learning and production-grade time-series forecasting.
-* **Quantum:** Leading initiatives at UCT QCS to bridge the gap between quantum theory and African development.
-
-### 🚀 Tech Stack
-* **Languages:** Python, C++, Java, Bash, lua, R.
-* **Frameworks:** PyTorch, Scikit-Learn.
-* **Tools:** Neovim, Linux (Ubuntu), Git, Playwright.
+### 🔭 Currently learning
+* Low-level machine learning systems
+* High-performance C++ development
+* Quantum computing 
 
 ### 📈 Philosophy
 > "Simplicity beats sophistication." — *Capitec: Stalking Giants*
