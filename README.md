@@ -1,22 +1,22 @@
-# Hi, I'm Siphesihle 👋
+# Hi, I'm Siphesihle
 
 I'm a student focusing on Computer Science, Artificial Intelligence, and Statistics. I'm particularly interested in low-level systems, AI research, and robotics.
 
-### 🛠️ Tech Stack
+### Tech Stack
 * **Languages:** C++, Python, Java, JavaScript, TypeScript, Bash
-* **Environment & Tools:** Linux (Ubuntu), Neovim, VS Code
+* **Environment & Tools:** Linux (Arch), Neovim
 
-### 🔭 Currently learning
+### Currently learning
 * Low-level machine learning systems
 * High-performance C++ development
 * Quantum computing 
 
-### 📈 Philosophy
+### Philosophy
 > "Simplicity beats sophistication." — *Capitec: Stalking Giants*
 
 ---
 
-### 🔗 Connect with me
+### Connect with me
 [LinkedIn](https://www.linkedin.com/in/siphesihle-gema) | [Codeforces](https://codeforces.com/profile/Siphesihle)
 
 "Grinding Codeforces, one problem at a time."
