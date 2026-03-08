@@ -17,7 +17,7 @@ I'm a student focusing on Computer Science, Artificial Intelligence, and Statist
 ---
 
 ### Connect with me
-[LinkedIn](https://www.linkedin.com/in/siphesihle-gema) | [Codeforces](https://codeforces.com/profile/Siphesihle)
+[LinkedIn](https://www.linkedin.com/in/siphesihle-gema)
 
 "Grinding Codeforces, one problem at a time."
 
