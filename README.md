@@ -3,13 +3,12 @@
 I'm a student focusing on Computer Science, Artificial Intelligence, and Statistics. I'm particularly interested in low-level systems, AI research, and robotics.
 
 ### Tech Stack
-* **Languages:** C++, Python, Java, JavaScript, TypeScript, Bash
-* **Environment & Tools:** Linux (Arch), Neovim
+* **Languages:** C++, Python, Java, JavaScript, TypeScript, Bash, lua
+* **Environment & Tools:** Arch Linux (Hyprland), Neovim, tmux, kitty
 
 ### Currently learning
 * Low-level machine learning systems
 * High-performance C++ development
-* Quantum computing 
 
 ### Philosophy
 > "Simplicity beats sophistication." — *Capitec: Stalking Giants*
