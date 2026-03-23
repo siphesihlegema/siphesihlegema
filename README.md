@@ -16,7 +16,8 @@ I'm a student focusing on Computer Science, Artificial Intelligence, and Statist
 ---
 
 ### Connect with me
-[LinkedIn](https://www.linkedin.com/in/siphesihle-gema)
-[Email](siphesihlegema30@gmail.com)
+- 📧 **Email:** [your-email@example.com](mailto:siphesihlegema30#gmail.com)
+- 🔗 **LinkedIn:** [your-profile](https://www.linkedin.com/in/siphesihle-gema-b8b318257/)
+- 🐦 **Twitter:** [@your-handle](https://x.com/Sphegema)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=siphesihlegema&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
