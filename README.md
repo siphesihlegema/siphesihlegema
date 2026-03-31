@@ -1,13 +1,13 @@
 # Hi, I'm Siphesihle
 
-I'm a student focusing on Computer Science, Artificial Intelligence, and Statistics. I'm particularly interested in low-level systems, AI research, and robotics.
+I'm a student majoring in Computer Science, Artificial Intelligence, and Statistics. I'm particularly interested in low-level systems, AI research, and robotics.
 
 ### Tech Stack
 * **Languages:** C++20, Python, Java, JavaScript, TypeScript, Bash, lua
 * **Environment & Tools:** Arch Linux (Hyprland), Neovim, Tmux, Ghostty
 
 ### Currently learning
-* Low-level machine learning systems
+* Deep learning
 * High-performance C++ development
 
 ### Philosophy
