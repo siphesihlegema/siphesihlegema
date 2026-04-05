@@ -3,7 +3,7 @@
 I'm a student majoring in Computer Science, Artificial Intelligence, and Statistics. I'm particularly interested in low-level systems, AI research, and robotics.
 
 ### Tech Stack
-* **Languages:** C++20, Python, Java, JavaScript, TypeScript, Bash, lua
+* **Languages:** C++20, Python, Java, Bash, lua, LaTeX
 * **Environment & Tools:** Arch Linux (Hyprland), Neovim, Tmux, Ghostty
 
 ### Currently learning
