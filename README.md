@@ -19,5 +19,3 @@ I'm a student majoring in Computer Science, Artificial Intelligence, and Statist
 - **Email:** siphesihlegema30@gmail.com
 - **LinkedIn:** [siphesihlegema](https://www.linkedin.com/in/siphesihle-gema-b8b318257/)
 - **Twitter:** [@sphegema](https://x.com/Sphegema)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=siphesihlegema&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
