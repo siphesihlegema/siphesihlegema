@@ -18,4 +18,3 @@ I'm a student majoring in Computer Science, Artificial Intelligence, and Statist
 ### Connect with me
 - **Email:** siphesihlegema30@gmail.com
 - **LinkedIn:** [siphesihlegema](https://www.linkedin.com/in/siphesihle-gema-b8b318257/)
-- **Twitter:** [@sphegema](https://x.com/Sphegema)
