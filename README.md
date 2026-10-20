@@ -10,9 +10,6 @@ I'm a student majoring in Computer Science, Artificial Intelligence, and Statist
 * Deep learning
 * High-performance C++ development
 
-### Philosophy
-> "Simplicity beats sophistication." — *Capitec: Stalking Giants*
-
 ---
 
 ### Connect with me
